@@ -1,1 +1,1 @@
-# studeis-PHP
+# studies-PHP
